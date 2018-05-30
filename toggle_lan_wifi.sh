@@ -1,5 +1,7 @@
 #!/bin/bash
-
+# @author francois hill
+# @since 2017
+# @copyright free to use
 
 log()
 {
